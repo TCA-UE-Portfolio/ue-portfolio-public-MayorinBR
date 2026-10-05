@@ -20,4 +20,8 @@ Class 01------------------------------------------------------------------------
     Git/GitHubへのコミット
 
         .gitignore を適切に設定し、不要なフォルダ（DerivedDataCache、Intermediate、Saved、.sln、.vsconfig など）を除外した状態でリポジトリへコミットおよびプッシュを行いました。
+
+Ativei Owner no see do mesh do character.
+Criei o WBP_Crosshair para a mira.
+Adicionado o Event BeginPlay com Create Widget para exibir o WBP_Crosshair.
 Class 01------------------------------------------------------------------------------------------------------------------------------------

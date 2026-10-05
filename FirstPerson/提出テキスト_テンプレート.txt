@@ -21,7 +21,9 @@ Class 01------------------------------------------------------------------------
 
         .gitignore を適切に設定し、不要なフォルダ（DerivedDataCache、Intermediate、Saved、.sln、.vsconfig など）を除外した状態でリポジトリへコミットおよびプッシュを行いました。
 
-Ativei Owner no see do mesh do character.
-Criei o WBP_Crosshair para a mira.
-Adicionado o Event BeginPlay com Create Widget para exibir o WBP_Crosshair.
+**********NEW**********
+キャラクターのメッシュの「Owner No See」を有効化しました。
+照準用の「WBP_Crosshair」を作成しました。
+「Event BeginPlay」に「Create Widget」を追加して「WBP_Crosshair」を表示するようにしました。
+***********************
 Class 01------------------------------------------------------------------------------------------------------------------------------------
